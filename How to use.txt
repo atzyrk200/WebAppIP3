@@ -1,0 +1,24 @@
+1)	Download apache-tomcat-8.5.11
+2)	log in XAMPP to run the mysql code & access database
+
+To access the database:
+1) click on the Admin button in the XAMPP controll panel
+2) database name is ip3 username:root2 password:ip3db
+
+How to run the program
+
+1)	Install apache-tomcat
+2) 	Open your project
+3)	Click run( might ask to add artifact) 
+*	Will show a configuration window and click add
+4) 	http://localhost:8080/home.jsp will open if you run it successfully
+
+Log in:
+
+*Log in uses the database information, right now all i have is one user Admin 
+
+1) username: atzyrk200 password:1234 select:admin 
+
+Save document
+
+1) input values, save
