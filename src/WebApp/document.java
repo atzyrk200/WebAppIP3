@@ -1,10 +1,6 @@
 package WebApp;
 
-/**
- * Created by andre_000 on 20/03/2017.
- */
-public class document
-{
+public class document {
 
     private String revisionNumber;
     private String documentTitle;
