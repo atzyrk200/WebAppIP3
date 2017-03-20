@@ -1,6 +1,6 @@
 <%@ page import="java.sql.*" %>
 <%@ page import="java.sql.SQLException" %>
-<%@ page import="WebApp.Connector" %>
+<%@ page import="WebApp.MySQLConnUtils" %>
 
 <%--
 Created by IntelliJ IDEA.
@@ -46,16 +46,7 @@ To change this template use File | Settings | File Templates.
     </section>
 </div>
 
-<%
 
-        try {
-            Connector.main(null);
-
-         }
-    catch (Exception e){
-       System.out.println("An exception occurred: " + e.getMessage());
-    }
-%>
 
 </body>
 
